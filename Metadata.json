@@ -1,0 +1,17 @@
+{
+    "name": "Example NFT",
+    "description": "This is an example NFT",
+    "image": "https://example.com/image.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
+  
+
